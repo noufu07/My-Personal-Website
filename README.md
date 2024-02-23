@@ -13,8 +13,10 @@ This project is a personal website built using HTML, Handlebars (hbs), CSS, and 
    ```sh
    git clone https://github.com/noufu07/My-Personal-Website.git
 2. Install dependencies:
-    git clone npm install
-3. To run the project, execute the following command:
+   ```sh
+     npm install
+4. To run the project, execute the following command:
+   ```sh
     npm start
    
 IT RUN ON PORT 1000
