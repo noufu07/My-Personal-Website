@@ -1,5 +1,6 @@
 # My-Personal-Website
 
+
 This is a personal website project created by Mohamad Nowfal.
 
 ## Description
@@ -25,4 +26,4 @@ If any feedback, please reach out to me at nowfanowfal07@gmail.com
 https://github.com/noufu07/
 
 ## License
-LICENSE
+[LICENSE]
