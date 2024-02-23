@@ -5,7 +5,7 @@ This is a personal website project created by Mohamad Nowfal.
 
 ## Description
 
-This project is a personal website built using HTML, Handlebars (hbs), CSS, and Express.js. It runs on port 1000.
+This project is a personal website built using HTML, Handlebars (hbs), CSS, Java script and Express.js. It runs on port 1000.
 
 ## Installation
 
@@ -19,7 +19,7 @@ This project is a personal website built using HTML, Handlebars (hbs), CSS, and 
    ```sh
     npm start
    
-IT RUN ON PORT 1000
+  IT RUN ON PORT 1000
 
 ## Feedback
 If any feedback, please reach out to me at nowfanowfal07@gmail.com
@@ -28,4 +28,4 @@ If any feedback, please reach out to me at nowfanowfal07@gmail.com
 https://github.com/noufu07/
 
 ## License
-[LICENSE]
+https://github.com/noufu07/My-Personal-Website/blob/main/LICENSE
