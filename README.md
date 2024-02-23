@@ -18,11 +18,11 @@ This project is a personal website built using HTML, Handlebars (hbs), CSS, and 
    
 IT RUN ON PORT 1000
 
-### Feedback
+## Feedback
 If any feedback, please reach out to me at nowfanowfal07@gmail.com
 
 ## Author
 https://github.com/noufu07/
 
-##License
+## License
 [MIT License] [LICENSE]
